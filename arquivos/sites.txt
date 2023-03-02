@@ -1,0 +1,7 @@
+emojis = https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia
+giphy = https://giphy.com/channel/Juciene_Moraes
+ASCII emojis = http://asciimoji.com/
+caracter invisivel = ‎ https://www.ev.org.br/cursos/html-basico
+tumblr = https://www.tumblr.com/login?language=pt_BR
+markdown documentação = https://markdown.net.br/sintaxe-basica/
+basico de html = https://www.ev.org.br/cursos/html-basico

@@ -1,4 +1,13 @@
+![Olá](https://github.com/Juciene-Moraes/Juciene-Moraes/blob/main/arquivos/Juciene-Moraes.gif)
+##
+-
+## :hibiscus: *INFORMAÇÕES* :hibiscus: 
+### Nome:‎ ‎ ‎ ‎ *Juciene Moraes* :blush:
+### Idade: ‎ ‎ ‎ *23 Anos* :birthday:
+### Pet: ‎ ‎ ‎ ‎ *Uma gatinha* :cat:
+---
 
+<a align="center"><h4>Olá, meu nome é juciene :woman:, tenho 23 anos :cake: :confet: e estou aprendendo programação :computer:</h4></a>
 
 ## Sistemas Operacionais usados
 ![Badge](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)

@@ -7,3 +7,4 @@ markdown documentação = https://markdown.net.br/sintaxe-basica/
 basico de html = https://www.ev.org.br/cursos/html-basico
 status do git hub = https://github.com/anuraghazra/github-readme-stats
 snake git = https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2
+https://www.youtube.com/watch?v=TsaLQAetPLU
